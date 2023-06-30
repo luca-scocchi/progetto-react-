@@ -1,0 +1,14 @@
+UwUope7u9WCLG7Ab2awwNEfWviZnNEdt
+
+https://api.nytimes.com/svc/news/v3/content/all/all.json?api-key=UwUope7u9WCLG7Ab2awwNEfWviZnNEdt
+
+
+Times Wire API	Real-time feed of NYT article publishes.	
+Enabled	
+'https://api.nytimes.com/svc/news/v3/content/all/all.json?api-key=UwUope7u9WCLG7Ab2awwNEfWviZnNEdt'
+
+
+
+
+Top Stories API
+https://api.nytimes.com/svc/topstories/v2/arts.json?api-key=UwUope7u9WCLG7Ab2awwNEfWviZnNEdt
